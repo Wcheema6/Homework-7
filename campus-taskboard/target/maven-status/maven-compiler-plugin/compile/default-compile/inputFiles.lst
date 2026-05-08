@@ -1,0 +1,12 @@
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/CampusTaskboardApplication.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/config/LoggingFilter.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/controller/TaskController.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/ErrorResponse.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/TaskRequest.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/dto/TaskResponse.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/GlobalExceptionHandler.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/InvalidTaskDataException.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/exception/TaskNotFoundException.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/model/Task.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/repository/TaskRepository.java
+/Users/wc/Data Stuctures/Homework7/campus-taskboard/src/main/java/edu/brooklyn/cisc3130/taskboard/service/TaskService.java
